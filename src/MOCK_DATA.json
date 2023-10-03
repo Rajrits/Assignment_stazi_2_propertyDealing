@@ -1,0 +1,284 @@
+[
+    {
+      "id": 3,
+      "location": "London",
+      "address": "67890 Oak Avenue",
+      "room": 2,
+      "bed": 5,
+      "bath": 3,
+      "area": 3000,
+      "price": 18000
+    },
+    {
+      "id": 4,
+      "location": "Mumbai",
+      "address": "56789 Pine Lane",
+      "room": 4,
+      "bed": 7,
+      "bath": 5,
+      "area": 4500,
+      "price": 30000
+    },
+    {
+      "id": 5,
+      "location": "NewYork",
+      "address": "45678 Maple Drive",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4000,
+      "price": 25000
+    },
+    {
+      "id": 6,
+      "location": "Paris",
+      "address": "34567 Birch Court",
+      "room": 2,
+      "bed": 5,
+      "bath": 3,
+      "area": 3200,
+      "price": 19000
+    },
+    {
+      "id": 7,
+      "location": "London",
+      "address": "23456 Cedar Street",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 3800,
+      "price": 22000
+    },
+    {
+      "id": 8,
+      "location": "Mumbai",
+      "address": "12345 Elm Street",
+      "room": 4,
+      "bed": 7,
+      "bath": 5,
+      "area": 4800,
+      "price": 32000
+    },
+    {
+      "id": 9,
+      "location": "NewYork",
+      "address": "78901 Willow Lane",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4200,
+      "price": 26000
+    },
+    {
+      "id": 10,
+      "location": "Paris",
+      "address": "67890 Oak Avenue",
+      "room": 2,
+      "bed": 5,
+      "bath": 3,
+      "area": 3300,
+      "price": 20000
+    },
+    {
+      "id": 11,
+      "location": "London",
+      "address": "56789 Pine Lane",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 3900,
+      "price": 23000
+    },
+    {
+      "id": 12,
+      "location": "Mumbai",
+      "address": "45678 Maple Drive",
+      "room": 4,
+      "bed": 7,
+      "bath": 5,
+      "area": 4600,
+      "price": 31000
+    },
+    {
+      "id": 13,
+      "location": "NewYork",
+      "address": "34567 Birch Court",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4100,
+      "price": 27000
+    },
+    {
+      "id": 14,
+      "location": "Paris",
+      "address": "23456 Cedar Street",
+      "room": 2,
+      "bed": 5,
+      "bath": 3,
+      "area": 3400,
+      "price": 21000
+    },
+    {
+      "id": 15,
+      "location": "London",
+      "address": "12345 Elm Street",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4000,
+      "price": 24000
+    },
+    {
+      "id": 16,
+      "location": "Mumbai",
+      "address": "78901 Willow Lane",
+      "room": 4,
+      "bed": 7,
+      "bath": 5,
+      "area": 4700,
+      "price": 32000
+    },
+    {
+      "id": 17,
+      "location": "NewYork",
+      "address": "67890 Oak Avenue",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4200,
+      "price": 26000
+    },
+    {
+      "id": 18,
+      "location": "Paris",
+      "address": "56789 Pine Lane",
+      "room": 2,
+      "bed": 5,
+      "bath": 3,
+      "area": 3500,
+      "price": 22000
+    },
+    {
+      "id": 19,
+      "location": "London",
+      "address": "45678 Maple Drive",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4100,
+      "price": 25000
+    },
+    {
+      "id": 20,
+      "location": "Mumbai",
+      "address": "34567 Birch Court",
+      "room": 4,
+      "bed": 7,
+      "bath": 5,
+      "area": 4900,
+      "price": 33000
+    },
+    {
+      "id": 21,
+      "location": "NewYork",
+      "address": "78901 Willow Lane",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4300,
+      "price": 27000
+    },
+    {
+      "id": 22,
+      "location": "Paris",
+      "address": "23456 Cedar Street",
+      "room": 2,
+      "bed": 5,
+      "bath": 3,
+      "area": 3600,
+      "price": 23000
+    },
+    {
+      "id": 23,
+      "location": "London",
+      "address": "12345 Elm Street",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4200,
+      "price": 26000
+    },
+    {
+      "id": 24,
+      "location": "Mumbai",
+      "address": "67890 Oak Avenue",
+      "room": 4,
+      "bed": 7,
+      "bath": 5,
+      "area": 4800,
+      "price": 31000
+    },
+    {
+      "id": 25,
+      "location": "NewYork",
+      "address": "56789 Pine Lane",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4400,
+      "price": 28000
+    },
+    {
+      "id": 26,
+      "location": "Paris",
+      "address": "78901 Willow Lane",
+      "room": 2,
+      "bed": 5,
+      "bath": 3,
+      "area": 3700,
+      "price": 24000
+    },
+    {
+      "id": 27,
+      "location": "London",
+      "address": "45678 Maple Drive",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4300,
+      "price": 27000
+    },
+    {
+      "id": 28,
+      "location": "Mumbai",
+      "address": "23456 Cedar Street",
+      "room": 4,
+      "bed": 7,
+      "bath": 5,
+      "area": 4900,
+      "price": 32000
+    },
+    {
+      "id": 29,
+      "location": "NewYork",
+      "address": "34567 Birch Court",
+      "room": 3,
+      "bed": 6,
+      "bath": 4,
+      "area": 4500,
+      "price": 29000
+    },
+    {
+      "id": 30,
+      "location": "Paris",
+      "address": "12345 Elm Street",
+      "room": 2,
+      "bed": 5,
+      "bath": 3,
+      "area": 3800,
+      "price": 25000
+    }
+
+  ]
+  
